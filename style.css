@@ -1,0 +1,47 @@
+
+h1{
+    color:brown
+}
+body{
+    background-color:rgb(240, 205, 154)
+}
+li{
+    color:pink
+}
+li{
+    background-color:darkmagenta
+}
+.beginning{
+    font-style:italic
+    
+}
+.beginning{
+    color:aquamarine
+}
+#important{
+    font-weight:bolder
+}
+#important{
+    color:darkgoldenrod
+}
+
+.header{
+    text-align:center;
+    color:red;
+    font-size:40px;
+    font-family:fantasy;
+    
+}
+h2:hover{
+    color:skyblue;
+    font-size:100px;
+}
+
+p{
+    text-align:center;
+}
+
+.img{
+    text-align:center;
+   
+}
