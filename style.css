@@ -45,3 +45,22 @@ p{
     text-align:center;
    
 }
+
+.nav-item {
+    color:white;
+    background-color:rgb(240, 168, 85)
+}
+
+div.row div {
+    border: 1px solid black;
+}
+
+.col-md-6{
+    text-align:center
+}
+
+.col-md-6:hover{
+    background-color:rgb(243, 112, 89);
+    font-size:20px;
+    
+}
